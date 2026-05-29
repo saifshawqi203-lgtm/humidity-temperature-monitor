@@ -5,7 +5,7 @@ Humidity and Temperature Monitoring System using Arduino UNO
 - DHT11 temperature & humidity sensor
 - 1602A LCD display
 
- ## Features
+ ## Features 
 - Shows temperature and humidity on LCD
 - Real-time monitoring
 
